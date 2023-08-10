@@ -1,1 +1,1 @@
-# estudo-python
+# Estudos Python
